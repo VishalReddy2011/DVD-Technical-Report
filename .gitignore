@@ -1,0 +1,8 @@
+# Ignore all files and folders
+*
+
+# Track .gitignore
+!.gitignore
+
+# Track only the compiled PDF report
+!main.pdf
